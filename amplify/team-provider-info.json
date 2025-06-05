@@ -32,7 +32,7 @@
         },
         "signeData": {
           "deploymentBucketName": "amplify-aws2025-william-08bb6-deployment",
-          "s3Key": "amplify-builds/signeData-776557363570596d6a34-build.zip"
+          "s3Key": "amplify-builds/signeData-3333612b7456412f3166-build.zip"
         }
       },
       "api": {
