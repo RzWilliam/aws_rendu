@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "storage": {
+      "cryptoPrices": [
+        "read"
+      ],
+      "cryptoExportBucket": [
+        "create",
+        "read",
+        "update"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

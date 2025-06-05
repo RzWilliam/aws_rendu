@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "storage": {
+      "cryptoPrices": [
+        "create",
+        "read",
+        "update"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

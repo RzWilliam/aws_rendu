@@ -1,0 +1,13 @@
+{
+  "resourceName": "cryptoExportBucket",
+  "policyUUID": "38fcd19d",
+  "bucketName": "cryptotracker",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

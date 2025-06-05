@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "paths": {
+    "/getUser": {
+      "name": "/getUser",
+      "lambdaFunction": "getUser",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/saveUser": {
+      "name": "/saveUser",
+      "lambdaFunction": "saveUser",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/export": {
+      "name": "/export",
+      "lambdaFunction": "signeData",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
